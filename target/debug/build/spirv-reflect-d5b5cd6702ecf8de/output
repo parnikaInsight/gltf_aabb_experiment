@@ -1,0 +1,27 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+CXX_aarch64-apple-darwin = None
+CXX_aarch64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_aarch64-apple-darwin = None
+CXXFLAGS_aarch64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,vh")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-stdlib=libc++" "-I" "src" "-Wall" "-Wextra" "-std=c++11" "-Wno-missing-field-initializers" "-Wno-sign-compare" "-Wno-deprecated" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv-reflect-d5b5cd6702ecf8de/out/vendor/spirv_reflect.o" "-c" "vendor/spirv_reflect.c"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv-reflect-d5b5cd6702ecf8de/out/libspirv_reflect_cpp.a" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv-reflect-d5b5cd6702ecf8de/out/vendor/spirv_reflect.o"
+exit status: 0
+running: "ar" "s" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv-reflect-d5b5cd6702ecf8de/out/libspirv_reflect_cpp.a"
+exit status: 0
+cargo:rustc-link-lib=static=spirv_reflect_cpp
+cargo:rustc-link-search=native=/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv-reflect-d5b5cd6702ecf8de/out
+cargo:rustc-link-lib=c++

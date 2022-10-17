@@ -1,0 +1,10 @@
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/spirv_cross-ee32e0fc106fddb1.rmeta: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/compiler.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/msl.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/spirv.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/ptr_util.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/bindings_native.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/spirv_cross-ee32e0fc106fddb1.d: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/compiler.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/msl.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/spirv.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/ptr_util.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/bindings_native.rs
+
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/lib.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/compiler.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/msl.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/spirv.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/ptr_util.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/spirv_cross-0.23.1/src/bindings_native.rs:

@@ -1,0 +1,10 @@
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/bevy_audio-32faf0a1b1614b06.rmeta: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_output.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_source.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/libbevy_audio-32faf0a1b1614b06.rlib: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_output.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_source.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/bevy_audio-32faf0a1b1614b06.d: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_output.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_source.rs
+
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/lib.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_output.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_audio-0.6.0/src/audio_source.rs:

@@ -1,0 +1,11 @@
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/notify-3833359ebf1176ce.rmeta: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/fsevent.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/event.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/null.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/poll.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/config.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/error.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/notify-3833359ebf1176ce.d: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/fsevent.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/event.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/null.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/poll.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/config.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/error.rs
+
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/lib.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/fsevent.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/event.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/null.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/poll.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/config.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-5.0.0-pre.10/src/error.rs:

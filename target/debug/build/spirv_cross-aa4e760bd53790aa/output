@@ -1,0 +1,55 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CXX_aarch64-apple-darwin = None
+CXX_aarch64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_aarch64-apple-darwin = None
+CXXFLAGS_aarch64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,vh")
+CXX_aarch64-apple-darwin = None
+CXX_aarch64_apple_darwin = None
+HOST_CXX = None
+CXX = None
+CXXFLAGS_aarch64-apple-darwin = None
+CXXFLAGS_aarch64_apple_darwin = None
+HOST_CXXFLAGS = None
+CXXFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,vh")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/wrapper.o" "-c" "src/wrapper.cpp"
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cfg.o" "-c" "src/vendor/SPIRV-Cross/spirv_cfg.cpp"
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross.cpp"
+exit status: 0
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_parser.o" "-c" "src/vendor/SPIRV-Cross/spirv_parser.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross_util.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_util.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_glsl.o" "-c" "src/vendor/SPIRV-Cross/spirv_glsl.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-DSPIRV_CROSS_WRAPPER_MSL" "-std=c++14" "-o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_msl.o" "-c" "src/vendor/SPIRV-Cross/spirv_msl.cpp"
+exit status: 0
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/libspirv-cross-rust-wrapper.a" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/wrapper.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cfg.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_parser.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_cross_util.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_glsl.o" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/src/vendor/SPIRV-Cross/spirv_msl.o"
+exit status: 0
+running: "ar" "s" "/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out/libspirv-cross-rust-wrapper.a"
+exit status: 0
+cargo:rustc-link-lib=static=spirv-cross-rust-wrapper
+cargo:rustc-link-search=native=/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/spirv_cross-aa4e760bd53790aa/out
+CXXSTDLIB_aarch64-apple-darwin = None
+CXXSTDLIB_aarch64_apple_darwin = None
+HOST_CXXSTDLIB = None
+CXXSTDLIB = None
+cargo:rustc-link-lib=c++

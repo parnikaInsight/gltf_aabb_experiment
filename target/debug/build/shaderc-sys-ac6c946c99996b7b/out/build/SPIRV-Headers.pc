@@ -1,0 +1,9 @@
+prefix=/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/build/shaderc-sys-ac6c946c99996b7b/out
+includedir=${prefix}/include
+
+Name: SPIRV-Headers
+Description: Header files from the SPIR-V registry
+Version: 1.5.5
+Requires:
+Libs:
+Cflags: -I${includedir}

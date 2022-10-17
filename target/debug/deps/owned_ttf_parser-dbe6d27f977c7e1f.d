@@ -1,0 +1,10 @@
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/owned_ttf_parser-dbe6d27f977c7e1f.rmeta: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/libowned_ttf_parser-dbe6d27f977c7e1f.rlib: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/parnikasaxena/Downloads/bevy_mod_bounding-master/target/debug/deps/owned_ttf_parser-dbe6d27f977c7e1f.d: /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs:
+/Users/parnikasaxena/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs:

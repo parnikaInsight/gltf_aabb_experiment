@@ -1,0 +1,11 @@
+[package]
+name = "bevy_mod_bounding"
+keywords = ["gamedev", "graphics", "bevy", "3d", "bounding"]
+categories = ["game-engines", "rendering"]
+resolver = "2"
+
+[dependencies]
+bevy = {version = "0.6.0", features = ["jpeg"]}
+
+[[example]]
+name = "demo"
