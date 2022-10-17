@@ -64,6 +64,7 @@ fn setup(
         // .insert(Rotator);
 
     
+        // 2 of the same gltfs spawned differently:
         commands.spawn_scene(asset_server.load("emu.glb#Scene0"));
         
         commands

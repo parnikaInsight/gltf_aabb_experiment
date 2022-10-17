@@ -1,5 +1,11 @@
 [package]
 name = "bevy_mod_bounding"
+version = "0.1.2-alpha.0"
+authors = ["Aevyrie Roessler <aevyrie@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Bounding box generation for the Bevy Engine."
+repository = "https://github.com/aevyrie/bevy_mod_bounding/"
 keywords = ["gamedev", "graphics", "bevy", "3d", "bounding"]
 categories = ["game-engines", "rendering"]
 resolver = "2"
