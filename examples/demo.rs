@@ -21,7 +21,7 @@ pub fn sizer(
 ) {
     let mut v = Vec::new();
     let mut count = 0;
-    match ass.get_mut(&asset_server.load::<'_, Scene, &str>("tiger.glb#Scene0")) {
+    match ass.get_mut(&asset_server.load::<'_, Scene, &str>("emu.glb#Scene0")) {
         Some(res) => {
             let mut query_one = res.world.query::<(&Aabb)>();
             for c in query_one.iter(&res.world) {
